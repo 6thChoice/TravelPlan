@@ -29,6 +29,8 @@
     -   本项目使用 Azure OpenAI API 接入 GPT 系列 LLM。
 
 ## 架构概览
+![image](https://github.com/user-attachments/assets/bf9f9b1b-b2cc-4202-ae25-7ecb8bb5d99b)
+
 
 
 ## 安装与使用
