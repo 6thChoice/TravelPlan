@@ -45,8 +45,6 @@ ollama pull nomic-embed-text
 
 git clone https://github.com/6thChoice/TravelPlan.git
 
-cd TravelPlan # 进入项目文件夹
-
 安装依赖：
 
 pip install -r requirements.txt
