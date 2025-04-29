@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: search_engines
+Version: 0.5
+Summary: Search Engines Scraper
+Author: Tasos M. Adamopoulos
+License: MIT
+License-File: LICENSE
+Requires-Dist: requests[socks]>=2.22.0
+Requires-Dist: beautifulsoup4>=4.10.0
