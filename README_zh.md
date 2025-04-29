@@ -24,7 +24,6 @@
 -   **检索增强生成 (RAG):** 使用 [lightrag](https://github.com/your-lightrag-repo-link) 作为轻量级RAG模块，负责从项目的数据源中检索与用户查询相关的旅游信息。
     -   **嵌入模型:** 利用 [Ollama](https://ollama.com/) 提供的 `nomic-embed-text` 模型生成文本嵌入向量，用于RAG模块的相似度搜索。
 -   **智能体能力(MCP):** 使用MCP调用高德地图、谷歌搜索等外部工具来增强智能体的工具调用能力和决策逻辑，使其能更有效地利用RAG获取的信息或调用外部工具。
-    -   *(请在此处补充说明 MCP 是指具体哪个库或实现的机制名称，如果有的话)*
 -   **大型语言模型 (LLM):** 系统通过LangChain与一个大型语言模型进行交互，作为智能体的核心推理引擎。
     -   本项目使用 Azure OpenAI API 接入 GPT 系列 LLM。
 
