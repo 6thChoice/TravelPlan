@@ -87,8 +87,13 @@ python app_end.py
 感谢以下开源项目和社区提供的强大支持：
 
 LangChain
+
 lightrag
+
 Ollama
+
 Azure OpenAI Service
+
 高德开放平台
+
 Search-Engines-Scraper
