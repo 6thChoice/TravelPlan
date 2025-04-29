@@ -24,7 +24,6 @@ This project mainly relies on the following technology stack:
 -   **Retrieval Augmented Generation (RAG):** Uses [lightrag](https://github.com/your-lightrag-repo-link) as a lightweight RAG module responsible for retrieving travel information relevant to user queries from the project's data sources.
     -   **Embedding Model:** Utilizes the `nomic-embed-text` model provided by [Ollama](https://ollama.com/) to generate text embedding vectors for similarity search within the RAG module.
 -   **Agent Capability (MCP):** Uses MCP to call external tools like Amap (Gaode Maps), Google Search, etc., to enhance the agent's tool-calling capabilities and decision-making logic, enabling it to effectively utilize information obtained from RAG or call external tools.
-    -   *(Please clarify here what specific library or mechanism MCP refers to, if any)*
 -   **Large Language Model (LLM):** The system interacts with a Large Language Model via LangChain, serving as the agent's core reasoning engine.
     -   This project uses the Azure OpenAI API to integrate GPT series LLMs.
 
