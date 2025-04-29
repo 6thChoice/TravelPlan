@@ -36,7 +36,6 @@
 ### 前置条件
 Python 3.11+
 安装 Ollama 并拉取 nomic-embed-text 模型：
-Bash
 
 ollama pull nomic-embed-text
 配置 Azure OpenAI API 密钥和端点。
@@ -55,22 +54,21 @@ pip install -r requirements.txt
 ## 使用说明
 
 启动 MCP 服务器：
-Bash
 
 python gaode_mcp_server.py
+
 确保 Ollama 服务正在运行：
-Bash
 
 ollama serve
-(如果ollama已经作为服务在后台运行，则不需要再次启动)
+
 启动主程序（Agent 系统）：
-Bash
 
 python main_end.py
+
 启动前端界面：
-Bash
 
 python app_end.py
+
 程序启动后，通过访问前端界面与智能体进行交互。
 
 ## 示例输入：
