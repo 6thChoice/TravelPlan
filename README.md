@@ -26,6 +26,10 @@ This project mainly relies on the following technology stack:
 -   **Agent Capability (MCP):** Uses MCP to call external tools like Amap (Gaode Maps), Google Search, etc., to enhance the agent's tool-calling capabilities and decision-making logic, enabling it to effectively utilize information obtained from RAG or call external tools.
 -   **Large Language Model (LLM):** The system interacts with a Large Language Model via LangChain, serving as the agent's core reasoning engine.
     -   This project uses the Azure OpenAI API to integrate GPT series LLMs.
+ 
+## System Architecture
+![image](https://github.com/user-attachments/assets/4038a9e5-afca-48f4-b7df-4a766d2721f3)
+
 
 ## Installation and Usage
 
