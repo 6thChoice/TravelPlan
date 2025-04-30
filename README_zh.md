@@ -89,6 +89,11 @@ python app_end.py
 
 如有需要，系统支持详细调整旅行计划。
 
+在生成详细计划后，系统还能撰写时尚小红书文案，这里以上海旅游为例。
+
+<img width="881" alt="rednote" src="https://github.com/user-attachments/assets/5187c857-5547-4f26-9b76-0b9c8739341e" />
+
+
 ## 致谢
 感谢以下开源项目和社区提供的强大支持：
 
