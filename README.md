@@ -95,6 +95,7 @@ According draft, the system make final detailed plan:
 If need, the system supports to detailed adjust the travel plan.
 
 After generating the detailed plan, the system also have capacity to write the fashion rednote copywriting, here is a example of the Shanghai travel.
+
 <img width="881" alt="rednote" src="https://github.com/user-attachments/assets/61aa69ab-a977-46c0-ac56-d3c23d136a62" />
 
 
