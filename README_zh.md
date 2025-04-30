@@ -72,15 +72,22 @@ python app_end.py
 
 ## 示例输入：
 
-我想规划一个北京三日游，对历史文化景点比较感兴趣。
-北京天气怎么样？
-示例
-示例 1: 规划行程
-用户输入: 规划一次日本京都五日游，主要想体验传统文化和美食。
-系统输出: [展示系统生成的行程摘要或截图]
-示例 2: 实时信息查询
-用户输入: 故宫博物院今天的开放时间是什么？
-系统输出: [展示系统通过RAG查询到的信息或截图]
+### 首页
+<img width="1280" alt="first_page" src="https://github.com/user-attachments/assets/40eb8458-4c60-4f23-8148-7ac0a3e501a4" />
+
+### 使用
+
+设置：上海，游玩四天
+
+偏好：我想和家人一起舒适地旅行，我喜欢骑自行车。
+![draft](https://github.com/user-attachments/assets/6c935b0f-fa93-417d-ba85-ff87e48c20ba)
+
+根据草稿，系统继续生成详细方案：
+![detail_plan_p1](https://github.com/user-attachments/assets/32b823c3-885f-449a-a3ea-91d738d0c7cf)
+![detail_plan_p2](https://github.com/user-attachments/assets/cab67ff6-1491-4a1a-a5bc-084ba2f8a38b)
+![detail_plan_p3](https://github.com/user-attachments/assets/7206c0e0-2e58-40ce-9406-a31cf7e43d63)
+
+如有需要，系统支持详细调整旅行计划。
 
 ## 致谢
 感谢以下开源项目和社区提供的强大支持：
